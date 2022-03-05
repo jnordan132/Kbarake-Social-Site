@@ -2,18 +2,21 @@
 
 #nav {
   width: 100vw;
-  height: 85px;
+  height: 60px;
   background-color: rgb(65, 48, 87);
   position: absolute;
   top: 0;
   border-bottom: 2px solid white;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:wght@300&display=swap');
+
 #nav h1 {
   color: white;
-  font-size: 3em;
-  margin-top: 0.25em;
+  font-size: 2.5em;
+  margin-top: 0.075em;
   padding: 0;
+  font-family: 'Lobster', cursive;
 }
 
 /* HEADER */
@@ -22,12 +25,16 @@
   height: 12rem;
   width: 12rem;
   border-radius: 50%;
-  margin-top: 8rem;
+  margin-top: 7rem;
   margin-bottom: 2rem;
   border: 2px solid white;
 }
 
 /* SOCIALS */
+
+#socials {
+    margin-bottom: 50px;
+}
 
 ul {
   margin: 0;
@@ -90,6 +97,7 @@ footer {
   height: 50px;
   background-color: rgb(65, 48, 87);
   border-top: 2px solid white;
+  margin-top: auto;
 }
 
 footer p {

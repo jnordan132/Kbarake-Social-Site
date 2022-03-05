@@ -1,8 +1,7 @@
 import './App.css';
-import Nav from './components/Nav'
-import Header from './components/Header'
-import Socials from "./components/Socials"
-import Footer from './components/Footer'
+import Nav from './components/Nav';
+import Header from './components/Header';
+import Socials from "./components/Socials";
 
 function App() {
   return (
@@ -15,9 +14,6 @@ function App() {
       </div>
       <div>
       <Socials />
-      </div>
-      <div>
-        <Footer />
       </div>
     </div>
   );
