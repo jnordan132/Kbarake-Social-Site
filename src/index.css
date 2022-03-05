@@ -104,3 +104,15 @@ footer p {
   color: white;
   margin-bottom: 35px;
 }
+
+@media screen and (max-width: 450px) {
+  body, html {
+    overflow: hidden;
+  }
+  #pfp {
+    height: 9rem;
+    width: 9rem;
+    margin-top: 6rem;
+    margin-bottom: 1.5rem;
+  }
+}
