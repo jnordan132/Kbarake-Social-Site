@@ -107,8 +107,8 @@ li button :hover {
 /* FOOTER */
 
 #footer {
-  width: 100vw;
-  position: absolute;
+  width: 100%;
+  position: relative;
   bottom: 0;
   height: 50px;
   background-color: rgb(65, 48, 87);
