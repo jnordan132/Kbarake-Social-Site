@@ -1,34 +1,26 @@
 import * as React from "react";
-import { SocialIcon } from 'react-social-icons';
+import { SocialIcon } from "react-social-icons";
 
 function Socials() {
   return (
     <div id="socials">
       <ul>
-      <li>
+        <li>
           <button className="twitch">
             <a
               href="https://www.twitch.tv/kibarake_"
               target="_blank"
               rel="noopener noreferrer"
             >
-                <div id="inner">
-                    <div id="Logo" ><SocialIcon fgColor="#ffff" network="twitch" url="https://www.twitch.tv/kibarake_"/></div>
-                    <h3>Twitch</h3>
-              </div>
-            </a>
-          </button>
-        </li>
-        <li>
-          <button className="tiktok">
-            <a
-              href="https://www.tiktok.com/@kibarake"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-                <div id="inner">
-                    <div id="Logo" ><SocialIcon fgColor="#ffff" network="tiktok" url="https://www.youtube.com/channel/UCe_RKz5mY41Sh1PQhI3GtaQ"/></div>
-                    <h3>TikTok</h3>
+              <div id="inner">
+                <div id="Logo">
+                  <SocialIcon
+                    fgColor="#ffff"
+                    network="twitch"
+                    url="https://www.twitch.tv/kibarake_"
+                  />
+                </div>
+                <h3>Twitch</h3>
               </div>
             </a>
           </button>
@@ -40,9 +32,75 @@ function Socials() {
               target="_blank"
               rel="noopener noreferrer"
             >
-                <div id="inner">
-                    <div id="Logo" ><SocialIcon fgColor="#ffff" network="youtube" url="https://www.youtube.com/channel/UCe_RKz5mY41Sh1PQhI3GtaQ"/></div>
-                    <h3>YouTube</h3>
+              <div id="inner">
+                <div id="Logo">
+                  <SocialIcon
+                    fgColor="#ffff"
+                    network="youtube"
+                    url="https://www.youtube.com/channel/UCe_RKz5mY41Sh1PQhI3GtaQ"
+                  />
+                </div>
+                <h3>YouTube</h3>
+              </div>
+            </a>
+          </button>
+        </li>
+        <li>
+          <button className="discord">
+            <a
+              href="https://discord.gg/PVsDsuq5"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <div id="inner">
+                <div id="Logo">
+                  <SocialIcon
+                    fgColor="#ffff"
+                    network="discord"
+                    url="https://discord.gg/PVsDsuq5"
+                  />
+                </div>
+                <h3>Discord</h3>
+              </div>
+            </a>
+          </button>
+        </li>
+        <li>
+          <button className="tiktok">
+            <a
+              href="https://www.tiktok.com/@kibarake"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <div id="inner">
+                <div id="Logo">
+                  <SocialIcon
+                    fgColor="#ffff"
+                    network="tiktok"
+                    url="https://www.youtube.com/channel/UCe_RKz5mY41Sh1PQhI3GtaQ"
+                  />
+                </div>
+                <h3>TikTok</h3>
+              </div>
+            </a>
+          </button>
+        </li>
+        <li>
+          <button className="instagram">
+            <a
+              href="https://www.instagram.com/kibarake_/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <div id="inner">
+                <div id="Logo">
+                  <SocialIcon
+                    fgColor="#ffff"
+                    network="instagram"
+                    url="https://www.instagram.com/kibarake_/"
+                  />
+                </div>
+                <h3>Instagram</h3>
               </div>
             </a>
           </button>
@@ -52,6 +110,6 @@ function Socials() {
   );
 }
 
-// https://www.twitch.tv/kibarake_
+// https://www.instagram.com/kibarake_/
 
 export default Socials;

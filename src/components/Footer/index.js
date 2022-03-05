@@ -4,7 +4,7 @@ function Footer() {
 
     return (
         <div id="footer">
-
+            <p>© 2022 Kibarake</p>
         </div>
     )
 }
