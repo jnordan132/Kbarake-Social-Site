@@ -20,7 +20,7 @@ function Socials() {
                     url="https://www.twitch.tv/kibarake_"
                   />
                 </div>
-                <h3>Twitch</h3>
+                <h2>Twitch</h2>
               </div>
             </a>
           </button>
@@ -40,7 +40,7 @@ function Socials() {
                     url="https://www.youtube.com/channel/UCe_RKz5mY41Sh1PQhI3GtaQ"
                   />
                 </div>
-                <h3>YouTube</h3>
+                <h2>YouTube</h2>
               </div>
             </a>
           </button>
@@ -60,7 +60,7 @@ function Socials() {
                     url="https://discord.gg/PVsDsuq5"
                   />
                 </div>
-                <h3>Discord</h3>
+                <h2>Discord</h2>
               </div>
             </a>
           </button>
@@ -80,7 +80,7 @@ function Socials() {
                     url="https://www.youtube.com/channel/UCe_RKz5mY41Sh1PQhI3GtaQ"
                   />
                 </div>
-                <h3>TikTok</h3>
+                <h2>TikTok</h2>
               </div>
             </a>
           </button>
@@ -100,7 +100,7 @@ function Socials() {
                     url="https://www.instagram.com/kibarake_/"
                   />
                 </div>
-                <h3>Instagram</h3>
+                <h2>Instagram</h2>
               </div>
             </a>
           </button>
@@ -110,6 +110,5 @@ function Socials() {
   );
 }
 
-// https://www.instagram.com/kibarake_/
 
 export default Socials;
