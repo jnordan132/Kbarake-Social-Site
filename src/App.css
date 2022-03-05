@@ -106,6 +106,13 @@ li button :hover {
 
 /* FOOTER */
 
+#footerWrapper {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
 #footer {
   width: 100%;
   position: relative;
@@ -118,5 +125,4 @@ li button :hover {
 #footer p {
   color: white;
   margin-bottom: 35px;
-  /* margin-top: -50px; */
 }
