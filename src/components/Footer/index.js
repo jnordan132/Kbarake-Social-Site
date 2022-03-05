@@ -1,14 +1,11 @@
 import React from "react";
 
 function Footer() {
-
-    return (
-        <div id="footerWrapper">
-            <div id="footer">
-                <p>© 2022 Kibarake</p>
-            </div>
-        </div>
-    )
+  return (
+    <footer>
+      <p>© 2022 Kibarake</p>
+    </footer>
+  );
 }
 
 export default Footer;

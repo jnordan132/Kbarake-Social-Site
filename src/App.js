@@ -16,7 +16,7 @@ function App() {
       <div>
       <Socials />
       </div>
-      <div id="footerSection">
+      <div>
         <Footer />
       </div>
     </div>

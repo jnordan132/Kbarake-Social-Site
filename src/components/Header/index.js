@@ -5,7 +5,7 @@ function Header() {
 
     return (
         <div id="header">
-            <img id="pfp" src={pfp} />
+            <img id="pfp" alt="kibarakes social media profile picture" src={pfp} />
         </div>
     )
 }
