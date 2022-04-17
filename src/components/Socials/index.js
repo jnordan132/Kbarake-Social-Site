@@ -48,7 +48,7 @@ function Socials() {
         <li>
           <button className="discord">
             <a
-              href="https://discord.gg/PVsDsuq5"
+              href="https://discord.gg/6CDUeyaWaQ"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -57,7 +57,7 @@ function Socials() {
                   <SocialIcon
                     fgColor="#ffff"
                     network="discord"
-                    url="https://discord.gg/PVsDsuq5"
+                    url="https://discord.gg/6CDUeyaWaQ"
                   />
                 </div>
                 <h2>Discord</h2>
