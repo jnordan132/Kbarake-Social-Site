@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Kibarake-Social_Site/static/css/main.d7d726f3.css",
+    "main.css": "/Kibarake-Social_Site/static/css/main.67ac04ed.css",
     "main.js": "/Kibarake-Social_Site/static/js/main.069a928d.js",
     "static/js/787.3627f693.chunk.js": "/Kibarake-Social_Site/static/js/787.3627f693.chunk.js",
     "static/media/KB-PFP.png": "/Kibarake-Social_Site/static/media/KB-PFP.c3cd27acb4eeb72bd570.png",
     "index.html": "/Kibarake-Social_Site/index.html",
-    "main.d7d726f3.css.map": "/Kibarake-Social_Site/static/css/main.d7d726f3.css.map",
+    "main.67ac04ed.css.map": "/Kibarake-Social_Site/static/css/main.67ac04ed.css.map",
     "main.069a928d.js.map": "/Kibarake-Social_Site/static/js/main.069a928d.js.map",
     "787.3627f693.chunk.js.map": "/Kibarake-Social_Site/static/js/787.3627f693.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7d726f3.css",
+    "static/css/main.67ac04ed.css",
     "static/js/main.069a928d.js"
   ]
 }
