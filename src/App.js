@@ -1,6 +1,6 @@
-import './App.css';
-import Nav from './components/Nav';
-import Header from './components/Header';
+import "./App.css";
+import Nav from "./components/Nav";
+import Header from "./components/Header";
 import Socials from "./components/Socials";
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
         <Header />
       </div>
       <div>
-      <Socials />
+        <Socials />
       </div>
     </div>
   );

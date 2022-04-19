@@ -4,22 +4,24 @@
   text-align: center;
 }
 
-html , body {
+html,
+body {
   margin: 0;
   padding: 0;
   height: 100%;
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(90deg, rgb(78, 78, 78), rgb(189, 189, 189));
+  background: linear-gradient(120deg, rgb(189, 189, 189), rgb(65, 48, 87));
+  /* background-image: url(./assets/KB-Background.jpg); */
   display: flex;
   flex-direction: column;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
