@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Kibarake-Social-Site/static/css/main.67ac04ed.css",
-    "main.js": "/Kibarake-Social-Site/static/js/main.cd2ef1dd.js",
+    "main.css": "/Kibarake-Social-Site/static/css/main.737a51a8.css",
+    "main.js": "/Kibarake-Social-Site/static/js/main.42c9c7dc.js",
     "static/js/787.3627f693.chunk.js": "/Kibarake-Social-Site/static/js/787.3627f693.chunk.js",
-    "static/media/KB-PFP.png": "/Kibarake-Social-Site/static/media/KB-PFP.c3cd27acb4eeb72bd570.png",
+    "static/media/NEWEST_PfP_KB.png": "/Kibarake-Social-Site/static/media/NEWEST_PfP_KB.8f95e8663128708aafa7.png",
     "index.html": "/Kibarake-Social-Site/index.html",
-    "main.67ac04ed.css.map": "/Kibarake-Social-Site/static/css/main.67ac04ed.css.map",
-    "main.cd2ef1dd.js.map": "/Kibarake-Social-Site/static/js/main.cd2ef1dd.js.map",
+    "main.737a51a8.css.map": "/Kibarake-Social-Site/static/css/main.737a51a8.css.map",
+    "main.42c9c7dc.js.map": "/Kibarake-Social-Site/static/js/main.42c9c7dc.js.map",
     "787.3627f693.chunk.js.map": "/Kibarake-Social-Site/static/js/787.3627f693.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.67ac04ed.css",
-    "static/js/main.cd2ef1dd.js"
+    "static/css/main.737a51a8.css",
+    "static/js/main.42c9c7dc.js"
   ]
 }
